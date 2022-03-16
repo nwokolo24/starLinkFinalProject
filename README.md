@@ -5,11 +5,9 @@
 ***
 
 **Overview**
-***
 Your final project will be a game or an interactive simulation that you create using the knowledge and experience you've gained about programming with classes.
-
-**Requirements**
 ***
+**Requirements**
 - The program may be any type of game or interactive simulation.
 - The program should use classes and instances.
 - The program should apply the four principles of programming with classes.
@@ -23,5 +21,4 @@ Strive to apply the principles of programming with classes so that your program 
 
 ***
 **Summary**
-***
 That's it... really. This course is about programming with classes which is as much about creating your own reality in software as it is about technical know how. So have fun with this one and use your imagination!
