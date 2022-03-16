@@ -4,7 +4,7 @@
 >*Dory Ben-Menachem*
 ***
 
-**Overview: **
+**Overview:**
 Your final project will be a game or an interactive simulation that you create using the knowledge and experience you've gained about programming with classes.
 ***
 **Requirements**
@@ -20,5 +20,5 @@ Strive to apply the principles of programming with classes so that your program 
 [Class Diagram](https://drive.google.com/file/d/1ZvzqYKw8NqGyFyLo9izExjOOOlmwU9cr/view?usp=sharing)
 
 ***
-**Summary: **
+**Summary:**
 That's it... really. This course is about programming with classes which is as much about creating your own reality in software as it is about technical know how. So have fun with this one and use your imagination!
