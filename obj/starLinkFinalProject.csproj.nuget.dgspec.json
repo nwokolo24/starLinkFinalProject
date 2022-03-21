@@ -44,9 +44,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "dependencies": {
-            "raylib-cs": {
+            "Raylib-cs": {
               "target": "Package",
-              "version": "[4.0.0.1, )"
+              "version": "[3.7.0.1, )"
             }
           },
           "imports": [
